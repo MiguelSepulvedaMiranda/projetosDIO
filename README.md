@@ -7,3 +7,5 @@ projetodiopowerbi2 - Relatório "criativo" até a segunda página, após replica
 
 
 projetodiopowerbi5 - Star Scheme do "Financial Sample" no Power Bi. Uso de formulas DAX.
+
+projetodiopowerbi7 - Duas novas páginas contendo os Top 3 produtos e os paises com maior lucro.
