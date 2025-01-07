@@ -6,4 +6,4 @@ projetodiopowerbi1 - Relatório Financial até a terceira página, após replica
 projetodiopowerbi2 - Relatório "criativo" até a segunda página, após replicar a primeira de acordo com o vídeo.
 
 
-projetodiopowerbi5 - Star Scheme do "Financial Sample no Power Bi.
+projetodiopowerbi5 - Star Scheme do "Financial Sample" no Power Bi. Uso de formulas DAX.
