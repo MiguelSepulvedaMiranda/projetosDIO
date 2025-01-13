@@ -7,5 +7,5 @@ projetodiopowerbi2 - Relatório "criativo" até a segunda página, após replica
 projetodiopowerbi3 - Criando um dashboard corporativo com Integração com MySQL e Azure.
 projetodio5.pdf - Dashboard de vendas com PowerBi utilizando Star Schema.
 projetodiopowerbi4 - Star Scheme do "Financial Sample" no Power Bi. Uso de formulas DAX.
-projetodiopowerbi5 - 
+projetodiopowerbi5 - Criando um Dashboard Gerencial para Tomade de Decisões Com Power Bi.
 projetodiopowerbi6 - Duas novas páginas contendo os Top 3 produtos e os paises com maior lucro.
