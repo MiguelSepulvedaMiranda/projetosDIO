@@ -4,8 +4,8 @@ projetodio3.sql - Projeto Lógico de Banco de Dados - Projeto Conceitual + Lógi
 projetodio4.sql - Projeto Lógico de Banco de Dados - Projeto Conceitual + Lógico de uma oficina mecânica refinado com os queries SQL pedidos.
 projetodiopowerbi1 - Relatório Financial até a terceira página, após replicar as duas primeiras de acordo com o vídeo.
 projetodiopowerbi2 - Relatório "criativo" até a segunda página, após replicar a primeira de acordo com o vídeo.
-
+projetodiopowerbi3 - Criando um dashboard corporativo com Integração com MySQL e Azure.
 projetodio5.pdf - Dashboard de vendas com PowerBi utilizando Star Schema.
 projetodiopowerbi4 - Star Scheme do "Financial Sample" no Power Bi. Uso de formulas DAX.
-
+projetodiopowerbi5 - 
 projetodiopowerbi6 - Duas novas páginas contendo os Top 3 produtos e os paises com maior lucro.
